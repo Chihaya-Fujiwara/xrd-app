@@ -1,0 +1,10 @@
+credentials:
+  usernames:
+    Fujisor:
+      email: Fujisor@example.com
+      name: Fujisor
+      password: $2b$12$XR21blK0aVD.7So8TQlPquBphIa/8apgNbvUEYVCt/DlDWsZgH2..
+cookie:
+  expiry_days: 90
+  key: some_key
+  name: some_cookie_name
